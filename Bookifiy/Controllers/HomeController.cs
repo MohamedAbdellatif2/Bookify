@@ -1,4 +1,5 @@
-﻿using Bookifiy.Models;
+﻿using Bookifiy.Core.Models;
+using Bookifiy.Core.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
